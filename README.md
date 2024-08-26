@@ -6,25 +6,7 @@
 
 ###
 
-<h1 align="center">Hello👋 My name is Ulugbek !</h1>
-
-###
-
-<h3 align="left">👩‍💻 About me</h3>
-
-###
-
-<p align="left">I'm a Backend Developer. My journey to it began at the School, where I completed an intensive course. After the intensive, there was a gap of a couple of months, where I tried myself in many directions, tried to learn Java, C#, JavaScript, tried my hand at Frontend, but most of all I was hooked on Backend development! From September 2022 to May 2023 I studied Backend development in courses on Monday. At the moment, my course is completed and I have found my first job!<br>
-
-<br>- 👨‍💻 Joined the team and worked together<br>-
-💻 Did work for a Hotel, Restaurant, Travel Agency
-<br>
-
-###
-
-<h3 align="left">🛠 Technologies:</h3>
-
-###
+<h1 align="center">XEROTTIN</h1>
 
 <div align="left">
 <div align="center">  
