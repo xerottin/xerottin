@@ -8,7 +8,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="60"> 
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50">  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"> 
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50">  
+<img style="margin: 25px" src="https://avatars.githubusercontent.com/u/1529926?s=48&v=4" alt="Redis" height="50">
+<img style="margin: 25px" src="https://icon.icepanel.io/Technology/svg/RabbitMQ.svg" alt="RabbitMQ" height="50">
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50">
+
 </div>
 </div>
 <br>  
